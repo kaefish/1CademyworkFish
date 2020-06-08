@@ -1,0 +1,17 @@
+h1{
+    background-color: #fff345;
+    font-size: 300%;
+    font-variant: small-caps;
+    color : #000000;
+}
+
+header{
+    background-color: aquamarine;
+    text-align: center;
+    line-height: 50%;
+}
+
+a{
+    font-size: 150%;
+    line-height: 50%;
+}

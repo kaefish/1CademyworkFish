@@ -1,0 +1,31 @@
+header{
+  background-color: #fff666;
+}
+
+h1{
+  font-variant: small-caps;
+  color: #654321;
+  text-align: center;
+}
+
+h2{
+  font-variant: small-caps;
+  color: #fFfff1;
+}
+
+section{
+  background-color: #ff7777;
+}
+
+nav{
+  background-color:#999876;
+  color: #ffffff;
+}
+
+a{
+  color: #ffffff;
+}
+
+aside{
+  display: none;
+}
